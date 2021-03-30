@@ -11,7 +11,7 @@
   "require":
   {
     "silverstripe/framework": "^4",
-    "aws/aws-sdk-php": "~3.0",
+    "aws/aws-sdk-php": "~3.0"
   },
   "extra": {
     "branch-alias": {
